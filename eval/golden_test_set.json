@@ -1,0 +1,8 @@
+[
+  {
+    "id": "q1",
+    "image_path": "data/images/q1.png",
+    "ground_truth_text": "2x + 4 = 10",
+    "ground_truth_answer": "x = 3"
+  }
+]
