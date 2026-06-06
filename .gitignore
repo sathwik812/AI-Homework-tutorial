@@ -36,6 +36,3 @@ htmlcov/
 # OS generated files
 .DS_Store
 Thumbs.db
-
-# Project guides (Do not push to GitHub)
-GIT_COMMIT_GUIDE.md
